@@ -1,21 +1,15 @@
-> _Fork_ deze deeltaak en ga aan de slag. De instructie vind je in: [docs/INSTRUCTIONS.md](docs/INSTRUCTIONS.md)
+# Vinimini Test
 
-# Titel
-<!-- Geef je opdracht een titel en schrijf in één zin wat het is -->
 
-## Gebruiker
-<!-- Het is duidelijk wie de gebruiker is -->
+## Gebruikers
+De gebruikers zijn de ouders van kinderen tussen de 4 maanden en 1 jaar. 
+
 
 ## User Story
-<!-- Er is een User Story geschreven van de interactie -->
+"Als ouder wil ik een test afleggen zodat ik weet wat ik mijn kindje moet voeden om allergenen tegen te gaan." 
 
-## Wireflow
-<!-- Toon de wireflow -->
 
- 
+## Wireflow 
+Hieronder is de wireflow te zien en de daarbij horende interactie.
 
-## Licentie
-
-![GNU GPL V3](https://www.gnu.org/graphics/gplv3-127x51.png)
-
-This work is licensed under [GNU GPLv3](./LICENSE).
+![Foto 09-01-2023 11 55 24](https://user-images.githubusercontent.com/112861069/211294356-fb8bbf0e-184b-40ea-aa6b-02cd2da82241.jpg)
