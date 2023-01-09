@@ -2,6 +2,8 @@
 
 ## Inhoudsopgave
  * [Gebruikers](##Gebruikers)
+ * [User Story](##User Story)
+ * [Wireflow](##Wireflow)
 
 ## Gebruikers
 De gebruikers zijn de ouders van kinderen tussen de 4 maanden en 1 jaar. 
